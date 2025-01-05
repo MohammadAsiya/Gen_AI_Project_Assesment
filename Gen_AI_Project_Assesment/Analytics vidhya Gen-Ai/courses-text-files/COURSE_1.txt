@@ -1,0 +1,46 @@
+Course Title: Become Familiar with Web Scraping using Python
+
+Title Description: Learn the fundamentals of web scraping using Python and extract valuable data from the internet for your data science projects.
+
+Course Description:
+The need and importance of extracting data from the web is becoming increasingly loud and clear. There is an unprecedented volume of data on the internet right now - and data science projects often need this data to build predictive models.
+That’s a key reason why data scientists are expected to be familiar with web scraping.
+We have found web scraping to be a very helpful technique for gathering data from multiple websites. Some websites these days also provide APIs for many different types of data you might want to use, such as Tweets or LinkedIn posts.
+But there might be occasions when you need to collect data from a website that does not provide a specific API. This is where having the ability to perform web scraping comes in handy. As a data scientist, you can code a simple Python script and extract the data you’re looking for.
+So knowing how to perform web scraping using Python will help you go a long way towards becoming a resourceful data scientist. Are you ready to take the next step and dive in?
+
+A note of caution here – web scraping is subject to a lot of guidelines and rules. Not every website allows the user to scrape content so there are certain legal restrictions at play. Always ensure you read the website’s terms and conditions on web scraping before you attempt to do it.
+
+In this course, we will dive into the basics of web scraping using Python. We will understand what web scraping is, the different Python libraries for performing web scraping, and finally we’ll implement web scraping using Python in a real-world project. There’s a lot to unpack here so enroll today and start learning!
+
+Who should Enroll:
+
+Anyone who wants to learn the art of web scraping using Python
+Individuals looking to collect or gather more data for their data science or machine learning project
+Those who want to add a new and crucial skill to their existing data science portfolio
+Individuals curious about Python programming
+What you need to get started:
+
+A working laptop/desktop with 4 GB RAM
+A working Internet connection
+Basic knowledge of Python. You can take [this free Python course](link to Python course) if you need a refresher
+Course Curriculum:
+
+Introduction to Web Scraping
+What is Web Scraping?
+Caution
+Popular Libraries for Web Scraping
+Components of Web Scraping
+Web Scraping: Procedure
+Scraping URLs and Email IDs from a Web Page
+Scrape Images in Python
+Scrape Data on Page Load
+Instructor(s):
+
+Instructor Name:Key Takeaways:
+
+Learn the fundamentals of web scraping using Python.
+Understand the importance of web scraping in data science projects.
+Explore different Python libraries for web scraping (Beautiful Soup, Scrapy, Selenium).
+Gain practical experience by implementing web scraping in real-world projects.
+Understand the ethical and legal considerations of web scraping.

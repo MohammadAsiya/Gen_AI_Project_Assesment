@@ -1,0 +1,70 @@
+Course Title: Introduction to Neural Networks
+
+Title Description: Kick start your journey in deep learning with Analytics Vidhya's Introduction to Neural Networks course! Learn how a neural network works and its different applications in the field of Computer Vision, Natural Language Processing and more.
+
+Course Description:
+What is a neural network? How does it work? What does a neural network do? Learn neural networks for free in this course and get your neural network questions answered, including applications of neural networks in deep learning.
+
+Learn how neural networks work in deep learning
+
+Do you want to acquire a superpower? How about learning neural networks? Neural networks are at the heart of the deep learning revolution that’s happening around us right now.
+
+Neural networks are the present and the future. The different neural network architectures like convolutional neural networks (CNN), recurrent neural networks (RNN), and others have altered the deep learning landscape.
+
+But as a beginner in this field, you’ll have a ton of questions:
+
+What is a neural network?
+Why do we need to learn neural networks?
+How popular are neural networks?
+What are the advantages of neural networks?
+What kind of challenges you could face when applying neural networks?
+What exactly should you learn about neural networks?
+What are the core concepts that make up neural networks?
+What are the different types of neural networks in deep learning?
+Do you need to know programming to build a neural network?
+Which programming language is best for building neural networks? Python or R?
+What are the different applications of neural networks?
+What kind of problems or projects can you solve using neural networks?
+From classifying images and translating languages to building a self-driving car, neural networks are powering the world around us. Thanks to the idea of neural networks like CNN and RNN, deep learning has penetrated into multiple and diverse industries, and it continues to break new ground on an almost weekly basis!
+
+So how can you get started with Neural networks?
+
+Where should you begin learning? Neural networks can appear to be complex to master. In a lot of ways, they are. We have seen quite a number of aspiring data scientists and deep learning enthusiasts give up before they even touched a neural network!
+
+But they’ve gone about it the wrong way. There are a lot of myths about neural networks that force people to quit:
+
+You need a strong background in statistics, machine learning, linear algebra, and calculus to learn neural networks
+You need to have a Ph.D. in order to understand neural networks
+You cannot build a neural network without advanced mathematics knowledge
+Mastering all of these would take you years!
+
+So, how else can you learn neural networks?
+
+That is EXACTLY what this free course by Analytics Vidhya will teach you.
+
+Course Curriculum:
+
+Introduction to Deep Learning
+What is Deep Learning?
+Difference between Deep Learning and Machine Learning
+Why Deep Learning is so popular?
+Getting ready for the course
+Introduction to Neural Network
+Activation Functions
+Loss Function
+NN on structured Data
+Assignment: Big Mart Sales Prediction
+Real World Use cases of Deep Learning
+Where to go from here?
+Instructor(s):
+
+Instructor Name: [Insert Instructor Name]
+Instructor Designation: [Insert Instructor Designation]
+About the Instructor: [Insert Instructor Bio]
+Key Takeaways:
+
+Understand the fundamental concepts of neural networks.
+Learn about different types of neural networks (e.g., CNN, RNN).
+Explore the applications of neural networks in various domains.
+Gain a foundational understanding of deep learning.
+Prepare for your deep learning journey.
